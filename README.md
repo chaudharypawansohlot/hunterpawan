@@ -1,6 +1,8 @@
 # hunterpawan
 A simple python script to scrap reports and writeups from google using  dorks 
 
+How to use : https://youtu.be/pf4HzQIP6Vw
+
 Exploit Writer : https://instagram.com/chaudharypawansohlot Join Me  https://www.linkedin.com/in/pawansohlot/
 
 ## Usage 
